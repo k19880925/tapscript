@@ -1,3 +1,9 @@
+#사용방법
+node v +19 이상, yarn 설치 (npm install --global yarn)
+설치 순서: npm i -> yarn build 
+
+
+
 # Tapscript
 
 A basic library for working with Taproot, Schnorr Signatures, and Bitcoin transactions.
